@@ -7,6 +7,7 @@ namespace Exercicio_Fixacao
 {
     class Aluno
     {
+        public string Nome;
         public double Nota1;
         public double Nota2;
         public double Nota3;
