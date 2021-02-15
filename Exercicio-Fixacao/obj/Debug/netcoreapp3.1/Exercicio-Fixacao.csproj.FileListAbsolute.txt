@@ -1,0 +1,13 @@
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Classes e Atributos\Exercicio-Fixacao\Exercicio-Fixacao\bin\Debug\netcoreapp3.1\Exercicio-Fixacao.exe
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Classes e Atributos\Exercicio-Fixacao\Exercicio-Fixacao\bin\Debug\netcoreapp3.1\Exercicio-Fixacao.deps.json
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Classes e Atributos\Exercicio-Fixacao\Exercicio-Fixacao\bin\Debug\netcoreapp3.1\Exercicio-Fixacao.runtimeconfig.json
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Classes e Atributos\Exercicio-Fixacao\Exercicio-Fixacao\bin\Debug\netcoreapp3.1\Exercicio-Fixacao.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Classes e Atributos\Exercicio-Fixacao\Exercicio-Fixacao\bin\Debug\netcoreapp3.1\Exercicio-Fixacao.dll
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Classes e Atributos\Exercicio-Fixacao\Exercicio-Fixacao\bin\Debug\netcoreapp3.1\Exercicio-Fixacao.pdb
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Classes e Atributos\Exercicio-Fixacao\Exercicio-Fixacao\obj\Debug\netcoreapp3.1\Exercicio-Fixacao.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Classes e Atributos\Exercicio-Fixacao\Exercicio-Fixacao\obj\Debug\netcoreapp3.1\Exercicio-Fixacao.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Classes e Atributos\Exercicio-Fixacao\Exercicio-Fixacao\obj\Debug\netcoreapp3.1\Exercicio-Fixacao.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Classes e Atributos\Exercicio-Fixacao\Exercicio-Fixacao\obj\Debug\netcoreapp3.1\Exercicio-Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Classes e Atributos\Exercicio-Fixacao\Exercicio-Fixacao\obj\Debug\netcoreapp3.1\Exercicio-Fixacao.dll
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Classes e Atributos\Exercicio-Fixacao\Exercicio-Fixacao\obj\Debug\netcoreapp3.1\Exercicio-Fixacao.pdb
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Classes e Atributos\Exercicio-Fixacao\Exercicio-Fixacao\obj\Debug\netcoreapp3.1\Exercicio-Fixacao.genruntimeconfig.cache
