@@ -18,6 +18,7 @@ namespace Exercicio_Fixacao
                 Console.WriteLine("Exercício 1 - Área, perímetro e diagonal de um retângulo.");
                 Console.WriteLine("Exercício 2 - Salário de funcionário com aumento.");
                 Console.WriteLine("Exercício 3 - Nota de um aluno.");
+                Console.WriteLine("Exercício 4 - Conversor de moedas.");
                 Console.WriteLine("*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-");
 
                 Console.Write("Escola a opção do exercício desejado (se desejar encerrar o programa digite qualquer outro número):");
@@ -80,6 +81,21 @@ namespace Exercicio_Fixacao
                     aluno.Nota3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                     Console.WriteLine(aluno);
+                }
+                else if (opcao == 4)
+                {
+                    Console.WriteLine("Faça uma programa para ler a cotação do dólar, e depois um valor em dólares a ser comprado por uma pessoa em reais." + 
+                        "Informar quantos reais a pessoa vai pagar pelos dólares, considerando ainda que a pessora terá que pagar 6% de IOF sobre o valor " + 
+                        "em dólar. Criar uma classe ConversorDeMoeda para ser responsável pelos cálculos.\n");
+
+                    Console.Write("Qual é a cotação do dólar? ");
+                    double dolar = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    Console.Write("Quantos dólares você vai comprar? ");
+                    double valorDesejado = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+                    Console.WriteLine();
+                    double resultado = ConversorDeMoeda.ConverterMoeda(valorDesejado, dolar);
+                    Console.WriteLine($"Valor a ser pago em reais = {resultado.ToString("F2", CultureInfo.InvariantCulture)}");
                 }
                 else
                     break;
